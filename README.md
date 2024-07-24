@@ -72,6 +72,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For any questions or feedback, please reach out to turna.fardousi@gmail.com.
+For any questions or feedback, please reach out to na4368528@alphacollege.me.
 
 ```
